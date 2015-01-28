@@ -1,6 +1,6 @@
 // my second repo file
 
-public void main(){
+public static void main(){
 
 	// do something
 	System.out.println("here it is.");
